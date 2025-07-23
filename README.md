@@ -1,6 +1,6 @@
 # 💻 Desafios de Código - DIO.me 🚀
 
-Este repositório contém os desafios práticos resolvidos durante minha jornada de estudos na [Digital Innovation One (DIO.me)](https://www.dio.me/), focado em lógica de programação, JavaScript, Python e Vue.js. Aqui você encontrará códigos bem comentados, versões em diferentes linguagens e foco total na construção de um portfólio profissional.
+Este repositório contém os desafios práticos resolvidos durante minha jornada de estudos na [Digital Innovation One (DIO.me)](https://www.dio.me/users/julio_0liveira_13141924), focado em lógica de programação, JavaScript, Python e Vue.js. Aqui você encontrará códigos bem comentados, versões em diferentes linguagens e foco total na construção de um portfólio profissional.
 
 ---
 
