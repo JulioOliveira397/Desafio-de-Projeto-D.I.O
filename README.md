@@ -7,9 +7,9 @@ O foco é construir uma base sólida em **lógica, programação, análise de da
 
 ## ⚔️ Desafios Resolvidos
 
-| #  | Desafio                                   | Linguagens            | Status       |
-|----|-------------------------------------------|-----------------------|--------------|
-| 1  | 🧙‍♂️ Classificador de Nível de Herói       | JavaScript, HTML      | ✅ Concluído |
+| #  | Desafio                                    | Linguagens            | Status       |
+|----|--------------------------------------------|-----------------------|--------------|
+| 1  | 🧙‍♂️ Classificador de Nível de Herói         | JavaScript, HTML      | ✅ Concluído |
 | 2  | 🏆 Calculadora de Partidas Rankeadas       | JavaScript, HTML      | ✅ Concluído |
 | 3  | ⚔️ Dama da Masmorra                        | JavaScript, Python    | ✅ Concluído |
 | 4  | ⚡ Escolha do Pokémon Inicial              | JavaScript            | ✅ Concluído |
@@ -17,6 +17,8 @@ O foco é construir uma base sólida em **lógica, programação, análise de da
 | 6  | 🧙 Criador de Itens Mágicos (OOP)          | JavaScript, Python    | ✅ Concluído |
 | 7  | ⛏️ Minerando Minérios (Loops e Arrays)     | JavaScript, Python    | ✅ Concluído |
 | 8  | 📦 Controle de Estoque Simples             | Python                | ✅ Concluído |
+| 9  | 🗃️ Analise de Vendas                       | Python                | ✅ Concluído |
+
 
 > Todos os desafios foram resolvidos com foco em **boas práticas, legibilidade** e replicados em diferentes linguagens para **aprendizado comparativo**.
 
