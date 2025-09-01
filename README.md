@@ -37,14 +37,24 @@ Este repositório reúne meus desafios práticos e projetos pessoais desenvolvid
 
 📁 desafios.DIO/
 ├── dama-da-masmorra/
-│ └── index.py
+│   └── index.py
 ├── nome-pokemon/
-│ └── index.py
+│   └── index.py
 ├── item-magico/
-│ └── index.py
+│   └── index.py
 📁 projetos-pessoais/
-│ └── controle-de-estoque-simples/
-| └── index.py/
+|   └──Analise-de-vendas/
+|   |  ├──Data/raw
+|   |  |      ├──processed
+|   |  |      └──Vendas.csv
+|   |  ├──notebooks/
+|   |  |  └──exploracao.ipynb
+|   |  ├──reports/
+|   |  └──Scripts/
+|   |     ├──analise.py
+|   |     └──limpeza.py
+│   └── controle-de-estoque-simples/
+|       └── index.py/
 │ 
 README.md
 
