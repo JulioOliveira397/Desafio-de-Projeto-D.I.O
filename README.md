@@ -50,7 +50,13 @@ Este repositório reúne meus desafios práticos e projetos pessoais desenvolvid
 |   |  ├──notebooks/
 |   |  |  └──exploracao.ipynb
 |   |  ├──reports/
+|   |  |  ├──produtos_mais_vendidos.csv
+|   |  |  ├──resumo_categoria.csv
+|   |  |  └──total_por_cliente.csv
 |   |  └──Scripts/
+|   |     ├──__pycache__/
+|   |     |  ├──analise.cpython-313.pyc
+|   |     |  └──limpeza.cpython-313.pyc
 |   |     ├──analise.py
 |   |     └──limpeza.py
 │   └── controle-de-estoque-simples/
